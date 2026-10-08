@@ -3,7 +3,7 @@
 ## Current Revision
 
 Document Owner: Help Desk Team
-Last Updated: September 2026
+Last Updated: October 2026
 Priority: Standard
 
 ## Overview
@@ -26,4 +26,11 @@ No issues currently documented.
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
 
-HERE LIES A PROBLEM!
+
+
+Slow Wireless Connections
+
+If connection is slow:
+
+1. Stop wasting time on the internet!
+
