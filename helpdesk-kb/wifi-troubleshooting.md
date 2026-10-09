@@ -33,4 +33,5 @@ Slow Wireless Connections
 If connection is slow:
 
 1. Stop wasting time on the internet!
+2. Go outside!
 
