@@ -25,3 +25,7 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
+## Slow Wireless Connections
+
+If slow wireless connections are an issue you are dealing with then contact the Service Desk about a wired connection.
