@@ -1,4 +1,4 @@
-# Wi‑Fi Troubleshooting Guide for Smarties
+# Wi‑Fi Troubleshooting Guide for Dummies
 
 ## Current Revision
 
