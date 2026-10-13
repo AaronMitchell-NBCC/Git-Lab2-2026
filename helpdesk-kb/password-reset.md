@@ -16,3 +16,7 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+
+## Two-Step Authentication
+
+users do have the ability to setup two-step verification for easier access to their account in the case of a forgotten password
