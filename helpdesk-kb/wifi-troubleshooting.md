@@ -1,4 +1,8 @@
-# Wi‑Fi Troubleshooting Guidessssss
+<<<<<<< HEAD
+# Wi‑Fi Troubleshooting Guideeeee
+=======
+# Wi‑Fi Troubleshooting Guideeeee
+>>>>>>> 215a376 (New title)
 
 ## Current Revision
 
