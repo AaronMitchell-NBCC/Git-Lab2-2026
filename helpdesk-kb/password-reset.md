@@ -16,3 +16,6 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+
+## BugFix
+Fix the bug where users cannot reset passwords when connection is slow
