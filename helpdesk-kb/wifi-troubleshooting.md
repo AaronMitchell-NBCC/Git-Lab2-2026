@@ -25,3 +25,7 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
+## Slow Wirelss Connections
+
+if the user has a slow wireless connection, update their status to lagging user and email them about their connection speed
