@@ -10,8 +10,7 @@ Priority: Standard
 
 1. Verify the user's identity.
 2. Locate the user account.
-3. Generate a temporary password.
-4. Require password change at next login.
+3. User Not Found...
 
 ## Escalation
 
